@@ -1,0 +1,14 @@
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/CortexM0/ARM_GCC_484/Debug/cyPm.o : C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyPm.c 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Evan/Desktop/BLE\ Lab\ 4/BLE\ Lab\ 4.cydsn/Generated_Source/PSoC4/cyPm.c : 
+
